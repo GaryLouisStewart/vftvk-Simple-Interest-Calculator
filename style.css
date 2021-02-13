@@ -1,4 +1,51 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family: arial;
+    color: white;
+}
 
+.maindiv {
+    background-color: white;
+    border-radius: 25px;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+}
 
+h1  {
+    color:grey;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 25px;
+}
+
+.result {
+    color:black;
+    display: block;
+    padding: 10px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 300px;
+    padding: 20px;
+}
+
+.footer {
+    text-align: left;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}​
+
+button {
+    padding: 10px;
+}
+
+#noofyears {
+    width: 40px;
+}
