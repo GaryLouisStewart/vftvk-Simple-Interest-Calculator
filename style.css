@@ -1,10 +1,16 @@
+/*
+Author: Gary Louis Stewart, https://github.com/GaryLouisStewart/vftvk-Simple-Interest-Calculator
+Date: 14/02/2020
+Developed for course: Introduction to cloud development with html, css and javascript
+*/
+
 body {
     background-color:black;
     font-family: arial;
     color: white;
 }
 
-.maindiv {
+.maindiv{
     background-color: white;
     border-radius: 25px;
     color: black;
